@@ -27,11 +27,22 @@
   <h3>🛠️ Tech Stack & Ferramentas</h3>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-019733?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🐍 Minhas Contribuições (Snake Game)</h3>
+  <img src="https://github.com/danmdz25/danmdz25/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -43,7 +54,6 @@
 </div>
 
 <br>
-
 <div align="center"> 
   <h3>📫 Contato</h3>
   <a href="mailto:daniel.mendes01.ti@gmail.com">
