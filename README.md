@@ -4,35 +4,35 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Mendes!;Cybersecurity+Student;Red+Team+Enthusiast;Python+%26+Data+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Mendes!;Cybersecurity+Student;DFIR+%26+Blue+Team;Linux+%26+Network+Security" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  Estudante de <b>Cibersegurança</b> (FIAP) e Técnico em ADS. <br>
-  Focado em transformar linhas de código em <b>Segurança Ofensiva</b> e automação.
+  Estudante de <b>Cibersegurança</b> (FIAP) e Tecnólogo em ADS. <br>
+  Focado em <b>Digital Forensics & Incident Response</b>, com ênfase em infraestrutura Linux e análise de redes.
   <br><br>
-  🔭 <b>Atualmente:</b> Criando ferramentas de rede com Python & Scapy.<br>
-  🎯 <b>Objetivo:</b> Especialização em Red Team e Pentest.
+  🔭 <b>Atualmente:</b> Aprofundando estudos em análise de artefatos Linux e protocolos de rede.<br>
+  🎯 <b>Objetivo:</b> Especialização em Resposta a Incidentes e Forense Computacional.
 </div>
 
 <br>
 
 <div align="center">
-  <h3>💻 Linguagens & Análise</h3>
+  <h3>📊 Linguagens & Automação</h3>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   
   <br><br>
   
-  <h3>💀 Arsenal de Segurança</h3>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <h3>🛡️ Investigação & Defesa</h3>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 <br>
