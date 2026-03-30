@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212257460-705b7661-f0ba-4775-a33b-82782e22c069.gif" />
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Mendes!;Cybersecurity+Student;DFIR+%26+Blue+Team;Linux+%26+Network+Security" alt="Typing SVG" />
   </a>
