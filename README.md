@@ -8,7 +8,7 @@
 
 <div align="center">
   Estudante de <b>Cibersegurança</b> (FIAP) e Tecnólogo em ADS. <br>
-  Focado em <b>Digital Forensics & Incident Response</b>, com ênfase em infraestrutura Linux e análise de redes.
+  Focado em <b>Digital Forensics & Incident Response</b>
   <br><br>
   🔭 <b>Atualmente:</b> Aprofundando estudos em Linux e protocolos de rede.<br>
   🎯 <b>Objetivo:</b> Especialização em Resposta a Incidentes e Forense Computacional.
